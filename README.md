@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h3 align="center">'Aspiring Software Developer | Seeking Entry-Level Programming Position |</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debasmita539&label=Profile%20views&color=0e75b6&style=flat" alt="debasmita539" /> </p>
 
-- 🌱 I’m currently learning **python**
+- 🌱 I’m currently Working on **Computer vision and Image processing**
 
 - 📫 How to reach me **debasmitajena539@gmail.com**
 
